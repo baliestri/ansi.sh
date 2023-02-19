@@ -3,8 +3,8 @@
 # Copyright (c) Bruno Sales <me@baliestri.dev>. Licensed under the MIT License.
 # See the LICENSE file in the project root for full license information.
 
-declare __CONSOLE_VERSION="v2023.01.29-2"
-declare __CONSOLE_CODENAME="[fg:ansi(87)]ina'nis[/]"
+declare __CONSOLE_VERSION="v2023.02.18"
+declare __CONSOLE_CODENAME="[fg:ansi(87)]flos[/]"
 
 declare -A __CONSOLE_PREDEFINED_COLORS=(
   ["black"]=0
